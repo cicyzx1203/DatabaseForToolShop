@@ -1,0 +1,17 @@
+phase 3/routes/* contains all .js files with SQL queries:
+tool_details.js
+addTool.js
+makeReservation.js
+customerRegistration.js
+dropOffReservation.js
+pickUpReservation.js
+showReservationsToDropOff.js
+showReservationsToPickUp.js
+getToolAvailability.js
+postLogin.js
+getToolInventoryReport.js
+customerReportGenerator.js
+getReservationInfo.js
+updateClerkPassword.js
+view_profile.js
+getClerkReport.js
